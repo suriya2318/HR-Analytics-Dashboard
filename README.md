@@ -73,7 +73,10 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
    •	EmpID by Start Date & Department Type (Line Chart): Tracks hiring trends over time across different department types.
 
-2. Dashboard 2: Employee Performance & Engagement
+      ![Company Overview Dashboard](https://github.com/user-attachments/assets/b0bf8e14-beb5-4668-99a2-8d5af969c57f)
+   
+
+3. Dashboard 2: Employee Performance & Engagement
 
    •	Performance Score by Department (Stacked Bar Chart): Shows how performance ratings vary across departments.
 
@@ -83,8 +86,10 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
    •	Top 10 Performers (Interactive Table): Lists the highest-performing employees with filtering options.
 
+      ![Employee Performance   Engagement Setup Dashboard](https://github.com/user-attachments/assets/c6cc292a-1793-4c8b-9362-e76ff831d432)
 
-3. Dashboard 3: Training & Development
+
+5. Dashboard 3: Training & Development
 
    •	Number of Trainings Conducted (Card): Displays the total training sessions delivered.
 
@@ -94,38 +99,66 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
    •	Training Hours per Employee (Clustered Bar Chart): Shows how much training each department's employees receive.
 
-4.  Dashboard 4: Recruitment Analysis
+      ![Training   Development Dashboard](https://github.com/user-attachments/assets/a7361dcf-9a71-479e-ae76-7034323008a1)
 
-  •	Total Applicants vs. Hired (Funnel Chart): Visualizes the hiring funnel from applicants to final hires.
-  
-  •	Experience Level by Applicants (Bar Chart): Shows the distribution of experience levels among applicants.
-  
-  •	Desired Salary Distribution (Histogram): Highlights the salary expectations of job applicants.
-  
-  •	Gender/Diversity Stats among Applicants (Donut Chart): Shows the diversity breakdown of applicants.
 
-5. Dashboard 5: Problem Identification
+7.  Dashboard 4: Recruitment Analysis
    
-  •	Count of Employees Over Time (Line Chart): Highlights workforce growth trends by department from 2018 to 2023, revealing staffing imbalances.
-  
-  •	Problem Area Detected (Card): Quickly shows the total number of HR red flags (e.g., attrition, skill gaps, imbalance).
-  
-  •	Diversity by Department (Matrix): Highlights gender gaps in departments, flagging areas lacking inclusion.
-  
-  •	Department Headcount vs. Performance (Stacked Bar Chart): Compares employee count with department performance, showing underutilization or overstaffing.
-  
-  •	Declining Engagement Over Time (Line Chart): Tracks employee engagement decline, signaling low morale or dissatisfaction risks.
-
-6. Dashboard 6: Solutions & Recommendations
+      •	Total Applicants vs. Hired (Funnel Chart): Visualizes the hiring funnel from applicants to final hires.
    
-  •	Current Headcount per Department (Clustered Column Chart): Displays the current team size vs. optimal staffing to guide hiring decisions.
+      •	Experience Level by Applicants (Bar Chart): Shows the distribution of experience levels among applicants.
+      
+      •	Desired Salary Distribution (Histogram): Highlights the salary expectations of job applicants.
+      
+      •	Gender/Diversity Stats among Applicants (Donut Chart): Shows the diversity breakdown of applicants.
 
-  •	Exit Rate vs. Benchmark (Line & Clustered Column Chart): Compares attrition rates with company standards to monitor turnover risks.
-  
-  •	Quarterly Engagement & Satisfaction Trend (Line Chart): Shows engagement drop across quarters, prompting immediate employee wellness actions.
-  
-  •	Smart Training Investment vs. Performance ROI (Scatter Plot): Identifies which training programs deliver real performance gains, helping optimize L&D spend.
+      ![Recuiremnet Analysis Dashboard](https://github.com/user-attachments/assets/47c2503d-bc1b-4693-ab30-de767fdb578a)
 
+9. Dashboard 5: Problem Identification
+   
+     •	Count of Employees Over Time (Line Chart): Highlights workforce growth trends by department from 2018 to 2023, revealing staffing imbalances.
+     
+     •	Problem Area Detected (Card): Quickly shows the total number of HR red flags (e.g., attrition, skill gaps, imbalance).
+     
+     •	Diversity by Department (Matrix): Highlights gender gaps in departments, flagging areas lacking inclusion.
+     
+     •	Department Headcount vs. Performance (Stacked Bar Chart): Compares employee count with department performance, showing underutilization or overstaffing.
+     
+     •	Declining Engagement Over Time (Line Chart): Tracks employee engagement decline, signaling low morale or dissatisfaction risks.
+
+    ![Problem Indentification Dashboard](https://github.com/user-attachments/assets/d113fd84-c191-43d9-ad55-96d66c098dc8)
+
+11. Dashboard 6: Solutions & Recommendations
+   
+     •	Current Headcount per Department (Clustered Column Chart): Displays the current team size vs. optimal staffing to guide hiring decisions.
+   
+     •	Exit Rate vs. Benchmark (Line & Clustered Column Chart): Compares attrition rates with company standards to monitor turnover risks.
+     
+     •	Quarterly Engagement & Satisfaction Trend (Line Chart): Shows engagement drop across quarters, prompting immediate employee wellness actions.
+     
+     •	Smart Training Investment vs. Performance ROI (Scatter Plot): Identifies which training programs deliver real performance gains, helping optimize L&D spend.
+
+
+      ![Solution   Recommendations Dashboard](https://github.com/user-attachments/assets/d8c77633-ebe9-4eef-b1ea-dca1da81341f)
+
+    
+## Project Insights
+   •	Departments with high exit rates also show declining engagement.
+   
+   •	A direct positive correlation exists between targeted training investments and performance ROI.
+   
+   •	Gender and racial diversity is uneven across departments, indicating areas for DEI improvement.
+   
+   •	Top performers are often linked to departments with higher training engagement.
+   
+   •	Applicant diversity data reveals potential recruitment bias or sourcing gaps.
+   
+   •	Certain departments are struggling with satisfaction, especially where exit rates are higher than benchmarked norms.
+   
+
+## Final Conclusion
+
+This HR Analytics Dashboard provides actionable insights into workforce trends and issues, enabling data-driven strategies for improving employee retention, diversity, engagement, and performance. By investing strategically in training and addressing problem departments, the organization can boost productivity and employee satisfaction. Additionally, targeted recruitment strategies can enhance diversity and hiring efficiency.
 
 
 
