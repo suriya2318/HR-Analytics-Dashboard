@@ -1,2 +1,3 @@
-# HR-Analytics-Dashboard
-This HR Data Analysis project uses PowerBi dashboards to explore workforce challenges, analyzing performance, engagement, training, diversity, and hiring trends. It highlights issues like overstaffing and low engagement, offering data-driven solutions to optimize workforce planning.
+HR-Analytics-Dashboard (Interactive Power BI Dashboard for HR Insights)
+Project Objective
+The goal of this project is to design an interactive and comprehensive HR Analytics Dashboard to help HR teams, executives, and stakeholders monitor, analyze, and improve employee performance, engagement, recruitment efficiency, diversity, and retention across the organization. The dashboard enables data-driven decisions by visualizing critical HR metrics and trends.
