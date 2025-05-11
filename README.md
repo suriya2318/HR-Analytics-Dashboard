@@ -35,7 +35,7 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 •	HR Dashboard Interaction - <a href="https://github.com/suriya2318/HR-Analytics-Dashboard/blob/main/HR%20dashboard%20Analytics.mp4"> View Dashboard </a>
 
 ## Process
-1. Data Cleaning & Preparation
+### 1. Data Cleaning & Preparation
    
    •	Verified all datasets for missing values and outliers.
    
@@ -44,13 +44,13 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
    •	Merged and joined tables based on common fields such as EmpID, Department, and StartDate.
 
 
-2. Data Modeling in Power BI
+### 2. Data Modeling in Power BI
    
    •	Established relationships between multiple tables (one-to-many, many-to-one).
 
    •	Created calculated columns and DAX measures for KPIs like Exit Rate, Avg. Performance Score, ROI, etc.
 
-3. Visualization & Dashboard Design
+### 3. Visualization & Dashboard Design
 
    •	Built six structured dashboards, each focusing on a specific HR domain (e.g., Company Overview, Training, Recruitment).
 
@@ -61,7 +61,7 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
 ## Dashboards Overview
 
-1. Dashboard 1: Company Overview
+### 1. Page 1: Company Overview
 
    •	Total Employees (Card): Displays the total number of current employees.
 
@@ -73,10 +73,10 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
    •	EmpID by Start Date & Department Type (Line Chart): Tracks hiring trends over time across different department types.
 
-      ![Company Overview Dashboard](https://github.com/user-attachments/assets/b0bf8e14-beb5-4668-99a2-8d5af969c57f)
-   
+   ![Company Review Dashboard](https://github.com/user-attachments/assets/7142a320-2db6-4f51-99cb-2144e43f09bf)
 
-3. Dashboard 2: Employee Performance & Engagement
+
+### 2. Page 2: Employee Performance & Engagement
 
    •	Performance Score by Department (Stacked Bar Chart): Shows how performance ratings vary across departments.
 
@@ -86,61 +86,59 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
    •	Top 10 Performers (Interactive Table): Lists the highest-performing employees with filtering options.
 
-      ![Employee Performance   Engagement Setup Dashboard](https://github.com/user-attachments/assets/c6cc292a-1793-4c8b-9362-e76ff831d432)
+   ![Employee Performance   Engagement Setup Dashboard](https://github.com/user-attachments/assets/5f519991-b53b-4156-b92d-6bbecea59760)
 
 
-5. Dashboard 3: Training & Development
+### 3. Page 3: Training & Development
 
    •	Number of Trainings Conducted (Card): Displays the total training sessions delivered.
 
    •	Average Training Cost by Department (Bar Chart): Compares training spend across departments.
 
-    •	Training Outcome vs. Performance Score (Correlation Bar Chart): Analyzes if training leads to better performance.
+   •	Training Outcome vs. Performance Score (Correlation Bar Chart): Analyzes if training leads to better performance.
 
    •	Training Hours per Employee (Clustered Bar Chart): Shows how much training each department's employees receive.
 
-      ![Training   Development Dashboard](https://github.com/user-attachments/assets/a7361dcf-9a71-479e-ae76-7034323008a1)
+   ![Training Development Dashboard](https://github.com/user-attachments/assets/c723806a-b9e6-4e9f-bb51-b52545b56c8c)
 
-
-7.  Dashboard 4: Recruitment Analysis
+### 4. Page 4: Recruitment Analysis
    
-      •	Total Applicants vs. Hired (Funnel Chart): Visualizes the hiring funnel from applicants to final hires.
+   •	Total Applicants vs. Hired (Funnel Chart): Visualizes the hiring funnel from applicants to final hires.
    
-      •	Experience Level by Applicants (Bar Chart): Shows the distribution of experience levels among applicants.
+   •	Experience Level by Applicants (Bar Chart): Shows the distribution of experience levels among applicants.
       
-      •	Desired Salary Distribution (Histogram): Highlights the salary expectations of job applicants.
+   •	Desired Salary Distribution (Histogram): Highlights the salary expectations of job applicants.
       
-      •	Gender/Diversity Stats among Applicants (Donut Chart): Shows the diversity breakdown of applicants.
+   •	Gender/Diversity Stats among Applicants (Donut Chart): Shows the diversity breakdown of applicants.
 
-      ![Recuiremnet Analysis Dashboard](https://github.com/user-attachments/assets/47c2503d-bc1b-4693-ab30-de767fdb578a)
+   ![Recuirement Analysis Dashboard](https://github.com/user-attachments/assets/c9818b74-e70f-4ce8-8541-9b141c254eec)
 
-9. Dashboard 5: Problem Identification
+### 5. Page 5: Problem Identification
    
-     •	Count of Employees Over Time (Line Chart): Highlights workforce growth trends by department from 2018 to 2023, revealing staffing imbalances.
+   •	Count of Employees Over Time (Line Chart): Highlights workforce growth trends by department from 2018 to 2023, revealing staffing imbalances.
      
-     •	Problem Area Detected (Card): Quickly shows the total number of HR red flags (e.g., attrition, skill gaps, imbalance).
+   •	Problem Area Detected (Card): Quickly shows the total number of HR red flags (e.g., attrition, skill gaps, imbalance).
      
-     •	Diversity by Department (Matrix): Highlights gender gaps in departments, flagging areas lacking inclusion.
+   •	Diversity by Department (Matrix): Highlights gender gaps in departments, flagging areas lacking inclusion.
      
-     •	Department Headcount vs. Performance (Stacked Bar Chart): Compares employee count with department performance, showing underutilization or overstaffing.
+   •	Department Headcount vs. Performance (Stacked Bar Chart): Compares employee count with department performance, showing underutilization or overstaffing.
      
-     •	Declining Engagement Over Time (Line Chart): Tracks employee engagement decline, signaling low morale or dissatisfaction risks.
+   •	Declining Engagement Over Time (Line Chart): Tracks employee engagement decline, signaling low morale or dissatisfaction risks.
 
-    ![Problem Indentification Dashboard](https://github.com/user-attachments/assets/d113fd84-c191-43d9-ad55-96d66c098dc8)
+   ![Problem Indentification Dashboard](https://github.com/user-attachments/assets/81ffa772-3fb7-4d66-aa7a-7c02558651b6)
 
-11. Dashboard 6: Solutions & Recommendations
+### 6. Page 6: Solutions & Recommendations
    
-     •	Current Headcount per Department (Clustered Column Chart): Displays the current team size vs. optimal staffing to guide hiring decisions.
+   •	Current Headcount per Department (Clustered Column Chart): Displays the current team size vs. optimal staffing to guide hiring decisions.
    
-     •	Exit Rate vs. Benchmark (Line & Clustered Column Chart): Compares attrition rates with company standards to monitor turnover risks.
+   •	Exit Rate vs. Benchmark (Line & Clustered Column Chart): Compares attrition rates with company standards to monitor turnover risks.
      
-     •	Quarterly Engagement & Satisfaction Trend (Line Chart): Shows engagement drop across quarters, prompting immediate employee wellness actions.
+   •	Quarterly Engagement & Satisfaction Trend (Line Chart): Shows engagement drop across quarters, prompting immediate employee wellness actions.
      
-     •	Smart Training Investment vs. Performance ROI (Scatter Plot): Identifies which training programs deliver real performance gains, helping optimize L&D spend.
+   •	Smart Training Investment vs. Performance ROI (Scatter Plot): Identifies which training programs deliver real performance gains, helping optimize L&D spend.
 
-
-      ![Solution   Recommendations Dashboard](https://github.com/user-attachments/assets/d8c77633-ebe9-4eef-b1ea-dca1da81341f)
-
+   ![Solution   Recommendations Dashboard](https://github.com/user-attachments/assets/7febb3aa-58a4-41ac-956c-b93fc2218013)
+    
     
 ## Project Insights
    •	Departments with high exit rates also show declining engagement.
