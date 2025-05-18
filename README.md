@@ -32,7 +32,7 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
 
 •	What are the recommendations based on current HR analytics?
 
-•	HR Dashboard Interaction - <a href="https://github.com/suriya2318/HR-Analytics-Dashboard/blob/main/HR%20dashboard%20Analytics.mp4"> View Dashboard </a>
+
 
 ## Process
 ### 1. Data Cleaning & Preparation
@@ -138,8 +138,10 @@ The goal of this project is to design an interactive and comprehensive HR Analyt
    •	Smart Training Investment vs. Performance ROI (Scatter Plot): Identifies which training programs deliver real performance gains, helping optimize L&D spend.
 
    ![Solution   Recommendations Dashboard](https://github.com/user-attachments/assets/7febb3aa-58a4-41ac-956c-b93fc2218013)
-    
-    
+
+   ### HR Dashboard Interaction 
+   - <a href="https://github.com/suriya2318/HR-Analytics-Dashboard/blob/main/HR%20dashboard%20Analytics.mp4"> View Dashboard </a>
+ 
 ## Project Insights
    •	Departments with high exit rates also show declining engagement.
    
